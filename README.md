@@ -11,10 +11,11 @@ Built entirely using C GAPHICS and C++ simple operations ONLY
     -bouncing ball screen saver
     -night sky screen saver
     -coloured cirlcles screen saver
-5. Settings with option of
+5. A snake Game
+6. Settings with option of
     -Change paasword
     -Remove password
-6. Logg off
-7. Restart
-8. Shutdown
+7. Logg off
+8. Restart
+9. Shutdown
 <img src="">
