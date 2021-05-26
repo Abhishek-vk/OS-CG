@@ -5,16 +5,16 @@ Built entirely using C GAPHICS and C++ simple operations ONLY
 ## Features available
 1. **Login screen with password verification**
 
-<img width="400" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/1.png">&emsp;&emsp;
+&emsp;&emsp;<img width="400" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/1.png">&emsp;&emsp;
 <img width="400" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/2.png">
 
 2. **Desktop View**
 
-<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/3.png">
+&emsp;&emsp;<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/3.png">
 
 3. **Calculator**
 
-<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/4.png">
+&emsp;&emsp;<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/4.png">
 
 4. **Screen savers** 
 
@@ -23,18 +23,27 @@ Built entirely using C GAPHICS and C++ simple operations ONLY
     * night sky screen saver
     * coloured cirlcles screen saver
     
-<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/5.png">
+&emsp;&emsp;<img width="400" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/5.png">
 
-**5. A snake Game**
-**6. Settings with option of**
-    *-Change paasword*
-    *-Remove password*
+&emsp;&emsp;<img height="200" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/10.png">&emsp;
+<img height="200" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/11.png">&emsp;
+<img height="200" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/12.png"><br><br>
 
-**7. Logg off**
-**8. Restart**
-**9. Shutdown**
+5. **A snake Game**
 
-<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/6.png">
-<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/7.png">
-<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/8.png">
-<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/9.png">
+&emsp;&emsp;<img width="400" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/8.png">&emsp;
+<img width="400" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/9.png">
+
+6. **Settings with option of**
+
+   * Change paasword
+    * Remove password
+
+
+&emsp;&emsp;<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/7.png">
+
+7. **Logg off**<br><br>
+8. **Restart**<br><br>
+9. **Shutdown**
+
+&emsp;&emsp;<img width="500" src="https://github.com/Abhishek-vk/OS-CG/blob/main/img/6.png">
