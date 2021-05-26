@@ -2,7 +2,7 @@
 OS-CG is an graphically designed operating system model 
 Built entirely using C GAPHICS and C++ simple operations ONLY
 
-#Features available
+# Features available
 1. Login screen with password verification
 2. Desktop View
 3. Calculator
